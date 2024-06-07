@@ -7,5 +7,5 @@ I looked at X.Y, Z
 ## Interesting Graph
 
 ## My Notebook
-* [Run my Colab Notebook] ()
+* [Run my Colab Notebook] (DataScienceNotebook.ipynb)
 * [A Full Data Science Notebook] (https://github.com/paiml/minimal-python)
