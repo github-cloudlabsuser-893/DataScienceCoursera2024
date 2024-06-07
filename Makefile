@@ -12,5 +12,3 @@ lint:
 	pylint --disable=R,C hello.py
 
 all:	install lint test format
-
-##	python -m pytest -vv test_hello.py
