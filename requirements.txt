@@ -1,7 +1,7 @@
 pytest
-pytest-cov
 pylint
 jupyter
+pytest-cov
 pandas
 nbval
 click
