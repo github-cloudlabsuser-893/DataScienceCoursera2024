@@ -2,6 +2,8 @@
 
 This is my porfolio project
 
+[![Python application test with Github Actions](https://github.com/github-cloudlabsuser-893/DataScienceCoursera2024/actions/workflows/main.yml/badge.svg)](https://github.com/github-cloudlabsuser-893/DataScienceCoursera2024/actions/workflows/main.yml)
+
 ## Background
 
 I looked at X.Y, Z
