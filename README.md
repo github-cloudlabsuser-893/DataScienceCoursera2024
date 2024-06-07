@@ -12,3 +12,4 @@ I looked at X.Y, Z
 
 * [Run my Colab Notebook] (https://github.com/github-cloudlabsuser-893/DataScienceCoursera2024/blob/main/DataScienceNotebook.ipynb)
 * [A Full Data Science Notebook] (https://github.com/paiml/minimal-python)
+* [Chapter 7 Data Science Notebook] 
